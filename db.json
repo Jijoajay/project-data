@@ -65,31 +65,31 @@
       },
       {
         "id": 6,
-        "cateogoryName": "Kids Wear",
+        "categoryName": "Kids Wear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/full-shot-kids-posing-together_23-2149853383.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 7,
-        "cateogoryName": "Men's Footwear",
+        "categoryName": "Men's Footwear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/premium-photo/fashion-sneakers-vivid-abstract-background-sport-shoes-neon-light-blue-orange-gradient_479776-7557.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 8,
-        "cateogoryName": "Womens Footwear",
+        "categoryName": "Womens Footwear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/woman-posing-with-stylish-footwear-summer-fashion-bag-long-legs-shopping_285396-489.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 9,
-        "cateogoryName": "Watches",
+        "categoryName": "Watches",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/new-smartwatch-balancing-with-hand_23-2150296477.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 10,
-        "cateogoryName": "Grooming",
+        "categoryName": "Grooming",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/collection-beauty-products-with-copy-space_23-2148620110.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       }
