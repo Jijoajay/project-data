@@ -35,31 +35,31 @@
     "generalCategory": [
       {
         "id": 1,
-        "cateogoryName": "Mens Casual Wear",
+        "categoryName": "Mens Casual Wear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4911.jpg?w=1480&t=st=1705215397~exp=1705215997~hmac=a9029a4ec81a4a6c6ee58948835f54667e945fd0feda8ab85c568f9897d70047"
       },
       {
         "id": 2,
-        "cateogoryName": "womens Ethnic wear",
+        "categoryName": "womens Ethnic wear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/low-angle-female-with-sunglasses_23-2148348911.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 3,
-        "cateogoryName": "Womens Activewear",
+        "categoryName": "Womens Activewear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/full-shot-woman-wearing-headphones_23-2149142400.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 4,
-        "cateogoryName": "Mens Activewear",
+        "categoryName": "Mens Activewear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/portrait-stylish-arab-beard-man-wear-grey-turtleneck-arabian-model-guy_627829-4318.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
       {
         "id": 5,
-        "cateogoryName": "Sports Wear",
+        "categoryName": "Sports Wear",
         "offer": "40-80%",
         "img": "https://img.freepik.com/free-photo/attractive-couple-slim-brunette-female-handsome-guy-sportswear-cuddling-studio-isolated-dark-background_613910-6719.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
       },
@@ -97,31 +97,31 @@
     "mensSportCategory": [
       {
         "id": 1,
-        "cateogoryName": "Men's Sports T-Shirts",
+        "categoryName": "Men's Sports T-Shirts",
         "offer": "Buy 1, Get 1 Free",
         "img": "https://img.freepik.com/free-photo/athletic-young-indian-man-posing-sports-background_7816-2639.jpg?size=626&ext=jpg"
       },
       {
         "id": 2,
-        "cateogoryName": "Men's Sports Shorts",
+        "categoryName": "Men's Sports Shorts",
         "offer": "30% Off",
         "img": "https://img.freepik.com/free-photo/young-indian-sportsman-playing-football_1303-15545.jpg?size=626&ext=jpg"
       },
       {
         "id": 3,
-        "cateogoryName": "Men's Tracksuits",
+        "categoryName": "Men's Tracksuits",
         "offer": "40% Off",
         "img": "https://img.freepik.com/free-photo/side-view-sportsman-jumping-isolated-background_1303-16920.jpg?size=626&ext=jpg"
       },
       {
         "id": 4,
-        "cateogoryName": "Men's Sports Shoes",
+        "categoryName": "Men's Sports Shoes",
         "offer": "20% Off",
         "img": "https://img.freepik.com/free-photo/young-sportsman-showing-muscles-isolated-background_1303-18195.jpg?size=626&ext=jpg"
       },
       {
         "id": 5,
-        "cateogoryName": "Men's Sports Jackets",
+        "categoryName": "Men's Sports Jackets",
         "offer": "50% Off",
         "img": "https://img.freepik.com/free-photo/young-man-sports-clothing-warming-up-before-run-sunny-day_176420-27218.jpg?size=626&ext=jpg"
       }
@@ -129,31 +129,31 @@
     "mensIndianWearCategory": [
       {
         "id": 1,
-        "cateogoryName": "Men's Kurtas",
+        "categoryName": "Men's Kurtas",
         "offer": "50% Off",
         "img": "https://img.freepik.com/free-photo/handsome-smiling-indian-man-wearing-traditional-clothes-posing_176420-25967.jpg?size=626&ext=jpg"
       },
       {
         "id": 2,
-        "cateogoryName": "Men's Sherwanis",
+        "categoryName": "Men's Sherwanis",
         "offer": "40% Off",
         "img": "https://img.freepik.com/free-photo/handsome-smiling-indian-man-wearing-traditional-clothes-posing_176420-26051.jpg?size=626&ext=jpg"
       },
       {
         "id": 3,
-        "cateogoryName": "Men's Pathani Suits",
+        "categoryName": "Men's Pathani Suits",
         "offer": "45% Off",
         "img": "https://img.freepik.com/free-photo/indian-man-traditional-clothes_1157-29251.jpg?size=626&ext=jpg"
       },
       {
         "id": 4,
-        "cateogoryName": "Men's Dhotis",
+        "categoryName": "Men's Dhotis",
         "offer": "30% Off",
         "img": "https://img.freepik.com/free-photo/man-indian-traditional-dhoti-poses-outdoors_1157-32350.jpg?size=626&ext=jpg"
       },
       {
         "id": 5,
-        "cateogoryName": "Men's Kurta Pyjama Sets",
+        "categoryName": "Men's Kurta Pyjama Sets",
         "offer": "55% Off",
         "img": "https://img.freepik.com/free-photo/portrait-young-indian-man-wearing-traditional-clothes-standing-against-yellow-wall_176420-27429.jpg?size=626&ext=jpg"
       }
@@ -161,31 +161,31 @@
     "femaleIndianwear": [
       {
         "id": 1,
-        "cateogoryName": "Women's Ethnic Sarees",
+        "categoryName": "Women's Ethnic Sarees",
         "offer": "Buy 1, Get 1 Free",
         "img": "https://img.freepik.com/free-photo/beautiful-indian-woman-traditional-clothes-standing-with-arms-crossed-isolated-white-background_273609-41192.jpg?size=626&ext=jpg"
       },
       {
         "id": 2,
-        "cateogoryName": "Women's Ethnic Kurtas",
+        "categoryName": "Women's Ethnic Kurtas",
         "offer": "30% Off",
         "img": "https://img.freepik.com/free-photo/happy-indian-woman-casual-dress_52683-32161.jpg?size=626&ext=jpg"
       },
       {
         "id": 3,
-        "cateogoryName": "Women's Salwar Kameez",
+        "categoryName": "Women's Salwar Kameez",
         "offer": "40% Off",
         "img": "https://img.freepik.com/free-photo/young-indian-woman-holding-shopping-bags_13339-52318.jpg?size=626&ext=jpg"
       },
       {
         "id": 4,
-        "cateogoryName": "Women's Lehenga Cholis",
+        "categoryName": "Women's Lehenga Cholis",
         "offer": "20% Off",
         "img": "https://img.freepik.com/free-photo/woman-indian-salwar-suit-standing_134508-6673.jpg?size=626&ext=jpg"
       },
       {
         "id": 5,
-        "cateogoryName": "Women's Sports Leggings",
+        "categoryName": "Women's Sports Leggings",
         "offer": "50% Off",
         "img": "https://img.freepik.com/free-photo/full-shot-woman-wearing-sportswear_23-2149142400.jpg?size=626&ext=jpg"
       }
@@ -193,31 +193,31 @@
     "femaleSportsWear": [
       {
         "id": 6,
-        "cateogoryName": "Women's Sports Bras",
+        "categoryName": "Women's Sports Bras",
         "offer": "30% Off",
         "img": "https://img.freepik.com/free-photo/close-up-shot-sporty-woman-dressed-sport-bra-shorts-white-holding-hands-hip-preparing-start-morning-running-workout-daily-routine-over-urban-background_196434-3958.jpg?size=626&ext=jpg"
       },
       {
         "id": 7,
-        "cateogoryName": "Women's Sports Shoes",
+        "categoryName": "Women's Sports Shoes",
         "offer": "40% Off",
         "img": "https://img.freepik.com/free-photo/sport-woman-sitting-floor-using-mobile-phone-wearing-wireless-headset_1157-27879.jpg?size=626&ext=jpg"
       },
       {
         "id": 8,
-        "cateogoryName": "Women's Sports Jackets",
+        "categoryName": "Women's Sports Jackets",
         "offer": "20% Off",
         "img": "https://img.freepik.com/free-photo/portrait-young-sportswoman-exercising-outdoors_1303-19469.jpg?size=626&ext=jpg"
       },
       {
         "id": 9,
-        "cateogoryName": "Women's Yoga Pants",
+        "categoryName": "Women's Yoga Pants",
         "offer": "Buy 2, Get 1 Free",
         "img": "https://img.freepik.com/free-photo/young-woman-doing-yoga-mat-isolated-white-wall_1150-12785.jpg?size=626&ext=jpg"
       },
       {
         "id": 10,
-        "cateogoryName": "Women's Running Shorts",
+        "categoryName": "Women's Running Shorts",
         "offer": "30% Off",
         "img": "https://img.freepik.com/free-photo/portrait-young-athletic-woman-running-city_1303-20163.jpg?size=626&ext=jpg"
       }
