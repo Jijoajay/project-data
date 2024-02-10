@@ -129,31 +129,31 @@
     "mensIndianWearCategory": [
       {
         "id": 1,
-        "categoryName": "Men's Kurtas",
+        "categoryName": "Kurtas",
         "offer": "50% Off",
         "img": "https://img.freepik.com/free-photo/handsome-smiling-indian-man-wearing-traditional-clothes-posing_176420-25967.jpg?size=626&ext=jpg"
       },
       {
         "id": 2,
-        "categoryName": "Men's Sherwanis",
+        "categoryName": "Sherwanis",
         "offer": "40% Off",
         "img": "https://img.freepik.com/free-photo/handsome-smiling-indian-man-wearing-traditional-clothes-posing_176420-26051.jpg?size=626&ext=jpg"
       },
       {
         "id": 3,
-        "categoryName": "Men's Pathani Suits",
+        "categoryName": "Pathani Suits",
         "offer": "45% Off",
         "img": "https://img.freepik.com/free-photo/indian-man-traditional-clothes_1157-29251.jpg?size=626&ext=jpg"
       },
       {
         "id": 4,
-        "categoryName": "Men's Dhotis",
+        "categoryName": "Dhotis",
         "offer": "30% Off",
         "img": "https://img.freepik.com/free-photo/man-indian-traditional-dhoti-poses-outdoors_1157-32350.jpg?size=626&ext=jpg"
       },
       {
         "id": 5,
-        "categoryName": "Men's Kurta Pyjama Sets",
+        "categoryName": "Kurta Pyjama Sets",
         "offer": "55% Off",
         "img": "https://img.freepik.com/free-photo/portrait-young-indian-man-wearing-traditional-clothes-standing-against-yellow-wall_176420-27429.jpg?size=626&ext=jpg"
       }
@@ -239,6 +239,116 @@
       "images": [
         {
           "image": "https://img.freepik.com/free-photo/black-sweater-apparel-shoot-with-design-space_53876-102943.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=sph",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/man-black-sweater-black-bucket-hat-youth-apparel-shoot_53876-102294.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=sph",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/premium-psd/men-with-turtleneck-sweater-mockup-with-gray-trousers_53876-98655.jpg?size=626&ext=jpg",
+          "alt": "f"
+        }
+      ],
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "brandName": "allen solly",
+      "category": "mens casual wear",
+      "clothingType": "Topwear",
+      "ProductTo": "men",
+      "name": "red sweatshirt",
+      "offerPrice": 800,
+      "oldPrice": 1300,
+      "color": "red",
+      "thumbImg": "https://assets.ajio.com/medias/sys_master/root/20220713/XX4l/62cedcd9f997dd03e2d22101/-473Wx593H-441294386-red-MODEL.jpg",
+      "description": "Pure Cotton Relaxed Fit Pullover Sweatshirt",
+      "images": [
+        {
+          "image": "https://assets.ajio.com/medias/sys_master/root/20220713/XX4l/62cedcd9f997dd03e2d22101/-473Wx593H-441294386-red-MODEL.jpg",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/man-black-sweater-black-bucket-hat-youth-apparel-shoot_53876-102294.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=sph",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/premium-psd/men-with-turtleneck-sweater-mockup-with-gray-trousers_53876-98655.jpg?size=626&ext=jpg",
+          "alt": "f"
+        }
+      ],
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "brandName": "Adidas",
+      "category": "mens casual wear",
+      "clothingType": "Topwear",
+      "ProductTo": "men",
+      "name": "green sweatshirt",
+      "offerPrice": 800,
+      "oldPrice": 1300,
+      "color": "green",
+      "thumbImg": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2b%2F88%2F2b88a3f49550684e47913d7db5ebe597006364ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "description": "Pure Cotton Relaxed Fit Pullover Sweatshirt",
+      "images": [
+        {
+          "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2b%2F88%2F2b88a3f49550684e47913d7db5ebe597006364ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
           "alt": "f"
         },
         {
