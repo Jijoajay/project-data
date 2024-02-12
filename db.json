@@ -285,7 +285,8 @@
       "category": "mens casual wear",
       "clothingType": "Topwear",
       "ProductTo": "men",
-      "name": "red sweatshirt",
+      "name": "sweatshirt",
+      "catName":"mens red sweatshirt",
       "offerPrice": 800,
       "oldPrice": 1300,
       "color": "red",
@@ -340,7 +341,8 @@
       "category": "mens casual wear",
       "clothingType": "Topwear",
       "ProductTo": "men",
-      "name": "green sweatshirt",
+      "name": " sweatshirt",
+      "catName":"mens green sweatshirt",
       "offerPrice": 800,
       "oldPrice": 1300,
       "color": "green",
@@ -396,6 +398,7 @@
       "clothingType": "Topwear",
       "ProductTo": "men",
       "name": "sweatshirt",
+      "catName":"mens black sweatshirt",
       "offerPrice": 1500,
       "oldPrice": 2300,
       "color": "black",
@@ -445,12 +448,181 @@
       ]
     },
     {
+      "id": 132,
+      "brandName": "Calvin klein",
+      "category": "mens casual wear",
+      "clothingType": "Topwear",
+      "ProductTo": "men",
+      "name": "sweatshirt",
+      "catName":"mens yellow sweatshirt",
+      "offerPrice": 1500,
+      "oldPrice": 2300,
+      "color": "yellow",
+      "thumbImg": "https://thehouseofrare.com/cdn/shop/products/IMG_0124_fde0bbb2-6f32-4e08-adff-10ae16dd1348.jpg?v=1666172758",
+      "description": "Pure Cotton & wooly Relaxed Fit Sweatshirt",
+      "images": [
+        {
+          "image": "https://thehouseofrare.com/cdn/shop/products/IMG_0124_fde0bbb2-6f32-4e08-adff-10ae16dd1348.jpg?v=1666172758",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/man-black-sweater-black-bucket-hat-youth-apparel-shoot_53876-102294.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=sph",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/premium-psd/men-with-turtleneck-sweater-mockup-with-gray-trousers_53876-98655.jpg?size=626&ext=jpg",
+          "alt": "f"
+        }
+      ],
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "brandName": "Calvin klein",
+      "category": "mens casual wear",
+      "clothingType": "Topwear",
+      "ProductTo": "men",
+      "name": "sweatshirt",
+      "catName":"mens grey sweatshirt",
+      "offerPrice": 1500,
+      "oldPrice": 2300,
+      "color": "grey",
+      "thumbImg": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2F82%2F7082d6a1b9ba25b395f7e39ff745da41a3116a91.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "description": "Pure Cotton & wooly Relaxed Fit Sweatshirt",
+      "images": [
+        {
+          "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2F82%2F7082d6a1b9ba25b395f7e39ff745da41a3116a91.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/man-black-sweater-black-bucket-hat-youth-apparel-shoot_53876-102294.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=sph",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/premium-psd/men-with-turtleneck-sweater-mockup-with-gray-trousers_53876-98655.jpg?size=626&ext=jpg",
+          "alt": "f"
+        }
+      ],
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "brandName": "Calvin klein",
+      "category": "mens casual wear",
+      "clothingType": "Topwear",
+      "ProductTo": "men",
+      "name": "sweatshirt",
+      "catName":"mens biege sweatshirt",
+      "offerPrice": 1500,
+      "oldPrice": 2300,
+      "color": "biege",
+      "thumbImg": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/5334/uploads/urunresimleri/buyuk/madmext-bej-erkek-sweatshirt-5339-e88c30.jpg",
+      "description": "Pure Cotton & wooly Relaxed Fit Sweatshirt",
+      "images": [
+        {
+          "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/5334/uploads/urunresimleri/buyuk/madmext-bej-erkek-sweatshirt-5339-e88c30.jpg",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/man-black-sweater-black-bucket-hat-youth-apparel-shoot_53876-102294.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=sph",
+          "alt": "f"
+        },
+        {
+          "image": "https://img.freepik.com/premium-psd/men-with-turtleneck-sweater-mockup-with-gray-trousers_53876-98655.jpg?size=626&ext=jpg",
+          "alt": "f"
+        }
+      ],
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 12,
       "brandName": "Bene Kleed",
       "category": "mens casual wear",
       "clothingType": "Topwear",
       "ProductTo": "men",
       "name": "turtle neck",
+      "catName":"mens black turtle neck",
       "offerPrice": 800,
       "oldPrice": 1300,
       "color": "black",
@@ -502,7 +674,8 @@
     {
       "id": 2,
       "category": "womens Ethnic wear",
-      "name": "red kurta",
+      "name": "kurta",
+      "catName":"womens red kurta",
       "clothingType": "Topwear",
       "ProductTo": "women",
       "brandName": "SINGNI",
@@ -569,7 +742,8 @@
     {
       "id": 11,
       "category": "womens Ethnic wear",
-      "name": "red kurta",
+      "name": "kurta",
+      "catName":"womens white kurta",
       "clothingType": "Topwear",
       "ProductTo": "women",
       "brandName": "SINGNI",
@@ -637,6 +811,7 @@
       "id": 3,
       "brandName": "Balasi",
       "name": "Casual shirt",
+      "catName":"mens blue Casual shirt",
       "clothingType": "Topwear",
       "ProductTo": "men",
       "category": "mens casual wear",
@@ -689,6 +864,7 @@
       "id": 4,
       "brandName": "parasi",
       "name": "casual shirt",
+      "catName":"kids blue Casual shirt",
       "clothingType": "Topwear",
       "ProductTo": "kids",
       "category": "kids Wear",
@@ -738,9 +914,116 @@
       ]
     },
     {
+      "id": 405,
+      "brandName": "parasi",
+      "name": "casual shirt",
+      "catName":"kids red Casual shirt",
+      "clothingType": "Topwear",
+      "ProductTo": "kids",
+      "category": "kids Wear",
+      "offerPrice": "799",
+      "oldPrice": "1199",
+      "color": "red",
+      "thumbImg": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012328848_437Wx649H_202203020547321.jpeg",
+      "description": "Pure Cotton Relaxed Fit Pullover Sweatshirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "images": [
+        {
+          "image": "https://img.tatacliq.com/images/i8/437Wx649H/MP000000012328848_437Wx649H_202203020547321.jpeg"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/portrait-cute-little-kid-boy-stylish-jeans-clothes-looking-camera-against-white-studio-wall_155003-13445.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/full-length-portrait-cute-little-kid-boy-stylish-jeans-clothes-smiling-standing-white-kids-fashion-concept_155003-20308.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
+        }
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "brandName": "parasi",
+      "name": "casual shirt",
+      "catName":"kids yellow Casual shirt",
+      "clothingType": "Topwear",
+      "ProductTo": "kids",
+      "category": "kids Wear",
+      "offerPrice": "799",
+      "oldPrice": "1199",
+      "color": "yellow",
+      "thumbImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pTO6HYDNCMT6nuSMAg-Z3wt5mohrDRjsgE-iES_H79n8hZwwUXlcJdiz4qfnTsUUjj4&usqp=CAU",
+      "description": "Pure Cotton Relaxed Fit Pullover Sweatshirt",
+      "size": [
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "images": [
+        {
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7pTO6HYDNCMT6nuSMAg-Z3wt5mohrDRjsgE-iES_H79n8hZwwUXlcJdiz4qfnTsUUjj4&usqp=CAU"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/portrait-cute-little-kid-boy-stylish-jeans-clothes-looking-camera-against-white-studio-wall_155003-13445.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
+        },
+        {
+          "image": "https://img.freepik.com/free-photo/full-length-portrait-cute-little-kid-boy-stylish-jeans-clothes-smiling-standing-white-kids-fashion-concept_155003-20308.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais"
+        }
+      ],
+      "productDetails": [
+        {
+          "product_material_detail": "Black solid relaxed fit sweatshirt has a round neck, 1 pocket, long sleeves, straight hem",
+          "size&fit": [
+            {
+              "title": "Relaxed Fit"
+            },
+            {
+              "title": "The model (height 6') is wearing a size M"
+            }
+          ],
+          "material&care": [
+            {
+              "title": "100% Cotton"
+            },
+            {
+              "title": "Machine Wash"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 5,
       "brandName": "vector",
-      "name": "men sport wear",
+      "name": "sport wear",
+      "catName":"mens brown sports wear",
       "clothingType": "Sports & Active Wear",
       "category": "sports Wear",
       "thumbImg": "https://img.freepik.com/free-photo/man-fitness-workout_144627-25319.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais",
@@ -794,7 +1077,8 @@
       "brandName": "vector",
       "category": "sports Wear",
       "clothingType": "Sports & Active Wear",
-      "name": "women sport wear",
+      "name": "sports wear",
+      "catName":"womens brown sports wear",
       "color": "brown",
       "thumbImg": "https://img.freepik.com/free-photo/strict-girl-glamour-salon-styling_1303-417.jpg?size=626&ext=jpg&ga=GA1.1.929801155.1698819302&semt=ais",
       "offerPrice": "399",
@@ -844,6 +1128,8 @@
     {
       "id": 7,
       "brandName": "Bene",
+      "name":"watch",
+      "catName":"men brown watch",
       "category": "watches",
       "clothingType": "Fashion Accessories",
       "ProductTo": "men",
@@ -892,6 +1178,8 @@
       "id": 8,
       "brandName": "Zapriyah",
       "category": "watches",
+      "name":"watch",
+      "catName":"womens brown watch",
       "clothingType": "Fashion Accessories",
       "ProductTo": "women",
       "offerPrice": "2500",
@@ -939,7 +1227,8 @@
       "id": 9,
       "brandName": "Balad",
       "category": "womens footwear",
-      "name": "women sandal",
+      "name": "sandal",
+      "catName":"womens brown sandal",
       "clothingType": "FootWear",
       "ProductTo": "women",
       "offerPrice": "4000",
@@ -992,6 +1281,7 @@
       "id": 10,
       "brandName": "Bene",
       "category": "Grooming",
+      "catName":"womens brown sports wear",
       "clothingType": "Fashion Accessories",
       "ProductTo": "men",
       "offerPrice": 300,
@@ -1042,6 +1332,7 @@
       "clothingType": "FootWear",
       "ProductTo": "men",
       "name": "Air Pegasus",
+      "catName":"mens black running shoe pegasus",
       "offerPrice": 12999,
       "oldPrice": 14999,
       "color": "Black/White",
